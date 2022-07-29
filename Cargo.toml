@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+	"nss-rust-pk11",
+	"rc_crypto",
+]

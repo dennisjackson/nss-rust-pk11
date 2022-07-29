@@ -1,0 +1,9 @@
+[package]
+name = "nss-rust-pk11"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nss_sys = { path = "../rc_crypto/nss/nss_sys" }
